@@ -1,0 +1,29 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "README",
+      "path": "README.md"
+    },
+    {
+      "type": "file",
+      "title": "动态规划",
+      "path": "02算法基础/05动态规划.md"
+    },
+    {
+      "type": "file",
+      "title": "基础算法",
+      "path": "02算法基础/01基础算法.md"
+    },
+    {
+      "type": "file",
+      "title": "数据结构",
+      "path": "02算法基础/02数据结构.md"
+    },
+    {
+      "type": "file",
+      "title": "算法应用",
+      "path": "02算法基础/刷题/二分.md"
+    }
+  ]
+}

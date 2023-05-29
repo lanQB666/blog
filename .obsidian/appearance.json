@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "cssTheme": "Minimal",
+  "translucency": false,
+  "nativeMenus": true,
+  "baseFontSize": 17,
+  "enabledCssSnippets": [
+    "center_image",
+    "custom-admonitions.1a514d"
+  ]
+}

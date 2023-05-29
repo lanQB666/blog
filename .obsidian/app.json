@@ -1,0 +1,30 @@
+{
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "./images",
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ],
+  "spellcheck": false,
+  "showLineNumber": false,
+  "defaultViewMode": "source",
+  "newFileLocation": "current",
+  "strictLineBreaks": false,
+  "useMarkdownLinks": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "algorithm/Excalidraw/",
+    "wangdao/Excalidraw/",
+    "templates/"
+  ],
+  "alwaysUpdateLinks": true,
+  "rightToLeft": false,
+  "vimMode": true
+}

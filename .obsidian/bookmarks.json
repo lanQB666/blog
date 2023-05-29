@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "path": "README.md",
+      "ctime": 1683253641798
+    },
+    {
+      "type": "group",
+      "ctime": 1683445476799,
+      "items": [
+        {
+          "type": "folder",
+          "ctime": 1683445462575,
+          "path": "course/csapp"
+        },
+        {
+          "type": "folder",
+          "ctime": 1683445428296,
+          "path": "course/CS61A"
+        }
+      ],
+      "title": "Course"
+    }
+  ]
+}

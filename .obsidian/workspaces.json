@@ -1,0 +1,271 @@
+{
+  "workspaces": {
+    "save": {
+      "main": {
+        "id": "42274fe7244783d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "08a152d5fca67e7a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6569234c15eb7055",
+                "type": "leaf",
+                "state": {
+                  "type": "media-view",
+                  "state": {
+                    "info": {
+                      "host": 1,
+                      "id": "BV1iW411d7hd",
+                      "src": "https://www.bilibili.com/video/BV1iW411d7hd?p=5&vd_source=196e9da8ee49a7879635d5a22229e6b3",
+                      "iframe": "https://player.bilibili.com/player.html?bvid=BV1iW411d7hd&page=5&high_quality=1&danmaku=0",
+                      "hash": ""
+                    },
+                    "currentTime": 6.403431
+                  }
+                },
+                "group": "906962f2746bd150"
+              }
+            ]
+          },
+          {
+            "id": "d5c9d9f553666273",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65f023bce035faa6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "course/csapp/03 程序机器级表示.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "906962f2746bd150"
+              },
+              {
+                "id": "3b90fef8ae683672",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "tool/blog/blog tool.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a5791e1d8c9d748f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "8f2a0a0bfec16f81",
+        "type": "split",
+        "children": [
+          {
+            "id": "f68bb16234aede50",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9229747e514e90fe",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e35a19a80aea2afe",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "5893efff61f24169",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "4a67ef69be612e55",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 299.5
+      },
+      "right": {
+        "id": "c908e56ac4041c1c",
+        "type": "split",
+        "children": [
+          {
+            "id": "5a9d51ef309c140c",
+            "type": "tabs",
+            "dimension": 67.30072463768116,
+            "children": [
+              {
+                "id": "bb51cc78f26a42f4",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "README.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              },
+              {
+                "id": "62d3c21848ae4b1d",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "README.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f685809659fda65f",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4be56f1218c570c6",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              },
+              {
+                "id": "5a00c00bd300e17f",
+                "type": "leaf",
+                "state": {
+                  "type": "mermaid-toolbar-view",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 4
+          },
+          {
+            "id": "944815af3bf06b24",
+            "type": "tabs",
+            "dimension": 32.69927536231884,
+            "children": [
+              {
+                "id": "25db7ce21ca43e8c",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "README.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 350.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:查看关系图谱": false,
+          "mermaid-tools:Open Mermaid Toolbar": false,
+          "audio-recorder:开始/结束录音": false,
+          "canvas:新建白板": false,
+          "switcher:打开快速切换": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "templater-obsidian:Templater": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+        }
+      },
+      "active": "25db7ce21ca43e8c"
+    }
+  },
+  "active": "save"
+}

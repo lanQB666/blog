@@ -1,0 +1,327 @@
+{
+  "main": {
+    "id": "42274fe7244783d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ed3b5c02f22be2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9efbf87eac17bfda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/csapp/csapp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b662cf7f1c06f2d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/csapp/03.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f2a0a0bfec16f81",
+    "type": "split",
+    "children": [
+      {
+        "id": "f68bb16234aede50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9229747e514e90fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:readme",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e35a19a80aea2afe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5893efff61f24169",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a67ef69be612e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "c908e56ac4041c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a9d51ef309c140c",
+        "type": "tabs",
+        "dimension": 56.43115942028986,
+        "children": [
+          {
+            "id": "bb51cc78f26a42f4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "source/_posts/csapp/03.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "62d3c21848ae4b1d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "source/_posts/csapp/03.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f685809659fda65f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4be56f1218c570c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "source/_posts/csapp/03.md"
+              }
+            }
+          },
+          {
+            "id": "5a00c00bd300e17f",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "944815af3bf06b24",
+        "type": "tabs",
+        "dimension": 43.56884057971014,
+        "children": [
+          {
+            "id": "25db7ce21ca43e8c",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "source/_posts/csapp/03.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "tag:course",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:path",
+                      "color": {
+                        "a": 1,
+                        "rgb": 327424
+                      }
+                    },
+                    {
+                      "query": "tag:project",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
+                      }
+                    },
+                    {
+                      "query": "tag:tool",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16771584
+                      }
+                    },
+                    {
+                      "query": "tag:algorithm",
+                      "color": {
+                        "a": 1,
+                        "rgb": 4345855
+                      }
+                    },
+                    {
+                      "query": "tag:language",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5419488
+                      }
+                    },
+                    {
+                      "query": "tag:todo",
+                      "color": {
+                        "a": 1,
+                        "rgb": 5395168
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.429678091434252,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 477.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:查看关系图谱": false,
+      "audio-recorder:开始/结束录音": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "b662cf7f1c06f2d0",
+  "lastOpenFiles": [
+    "db.json",
+    "public/images/avatar.jpg",
+    "public/archives/2023/index.html",
+    "public/js/search/local-search.js",
+    "public/js/search/algolia.js",
+    "public/js/utils.js",
+    "public/js/tw_cn.js",
+    "public/js/search",
+    "public/js/main.js",
+    "public/js",
+    "public/img/friend_404.gif",
+    "public/cs61a/c1/index.html",
+    "public/cs61a/c1",
+    "public/img/404.jpg",
+    "public/img/favicon.png",
+    "public/images/logo.svg",
+    "images/Pasted image 20230411113744.png.md",
+    "source/_posts/csapp/03.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/katex/contrib/mhchem/README.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/katex/contrib/mathtex-script-type/README.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/katex/contrib/copy-tex/README.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/katex/contrib/auto-render/README.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it-emoji/CHANGELOG.md",
+    "node_modules/@abreto/markdown-it-katex/README.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it-emoji/README.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/katex/dist/README.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/katex/CHANGELOG.md",
+    "node_modules/sluggo/logos/logo-box-madefor.png",
+    "node_modules/sluggo/logos/logo-box-builtby.png",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it/README.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it/CHANGELOG.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it-container/CHANGELOG.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it-container/README.md",
+    "node_modules/hexo-renderer-markdown-it-katex/README.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/sprintf-js/README.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/commander/Readme.md",
+    "node_modules/@abreto/markdown-it-katex/node_modules/commander/CHANGELOG.md",
+    "node_modules/hexo-renderer-markdown-it-katex/node_modules/entities/readme.md",
+    "node_modules/katex/dist/README.md",
+    "node_modules/katex/contrib/mhchem/README.md",
+    "node_modules/katex/contrib/mathtex-script-type/README.md",
+    "node_modules/katex/contrib/auto-render/README.md",
+    "node_modules/katex/contrib/copy-tex/README.md",
+    "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/school-book.png",
+    "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/pojoaque.jpg",
+    "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/brown-papersq.png",
+    "Language/Cpp/CppPrimer/map/03 处理数据.canvas"
+  ]
+}
