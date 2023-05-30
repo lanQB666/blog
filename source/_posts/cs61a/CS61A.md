@@ -1,8 +1,14 @@
 ---
 title: CS61A
-date: 2023-05-08T09:54 
-tags: [python,cs61a,scheme] 
-categories: [course,cs61a]
+date: '2023-05-08T09:54'
+tags:
+  - python
+  - cs61a
+  - scheme
+categories:
+  - course
+  - cs61a
+abbrlink: 9569
 ---
 
 
@@ -24,7 +30,7 @@ categories: [course,cs61a]
 
 ## 总结
 
-- [第一章总结](../c1/)
-- [第二章总结](../c2/)
-- [第三章总结](../c3/)
-- [第四章总结](../c4/)
+- [第一章总结](10290.html)
+- [第二章总结](45049.html)
+- [第三章总结](2018.html)
+- [第四章总结](7963.html)

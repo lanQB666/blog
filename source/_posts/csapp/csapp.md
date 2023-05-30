@@ -1,8 +1,13 @@
 ---
 title: csapp
+tags:
+  - c
+  - system
+categories:
+  - course
+  - csapp
+abbrlink: 30379
 date: 2023-05-29 18:34:46
-tags: [c,system]
-categories: [course,csapp]
 ---
 
 ## 资料
@@ -18,5 +23,5 @@ categories: [course,csapp]
 
 ## 总结
 
-- [03 程序机器级表示](../03/)
+- [03 程序机器级表示](58790.html)
 - 
