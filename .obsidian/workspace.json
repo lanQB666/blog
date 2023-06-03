@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "86ed3b5c02f22be2",
+        "id": "0cf11434dbefb43d",
         "type": "tabs",
         "children": [
           {
-            "id": "9efbf87eac17bfda",
+            "id": "14b07fe3759c5a83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/csapp/csapp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b662cf7f1c06f2d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "source/_posts/csapp/csapp.md",
+                "file": "source/_posts/CPP/C-OOP-BASE1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/csapp/csapp.md",
+                "file": "source/_posts/CPP/C-OOP-BASE1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/csapp/csapp.md",
+                "file": "source/_posts/CPP/C-OOP-BASE1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/csapp/csapp.md"
+                "file": "source/_posts/CPP/C-OOP-BASE1.md"
               }
             }
           },
@@ -174,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/_posts/csapp/csapp.md",
+                "file": "source/_posts/CPP/C-OOP-BASE1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -274,8 +261,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "b662cf7f1c06f2d0",
+  "active": "14b07fe3759c5a83",
   "lastOpenFiles": [
+    "_config.butterfly.yml~",
+    "node_modules/fsevents",
+    "source/_posts/csapp/csapp.md",
     "source/_posts/csapp/03.md",
     "db.json",
     "public/images/avatar.jpg",
@@ -288,7 +278,6 @@
     "public/js/main.js",
     "public/js",
     "public/img/friend_404.gif",
-    "public/cs61a/c1/index.html",
     "public/img/404.jpg",
     "public/img/favicon.png",
     "public/images/logo.svg",
@@ -317,7 +306,6 @@
     "node_modules/katex/contrib/mhchem/README.md",
     "node_modules/katex/contrib/mathtex-script-type/README.md",
     "node_modules/katex/contrib/auto-render/README.md",
-    "node_modules/katex/contrib/copy-tex/README.md",
     "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/school-book.png",
     "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/pojoaque.jpg",
     "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/brown-papersq.png",

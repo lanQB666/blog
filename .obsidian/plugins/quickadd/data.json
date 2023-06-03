@@ -1,6 +1,41 @@
 {
   "choices": [
     {
+      "id": "1730c4d1-c910-4047-855b-aa0cb76aa5fd",
+      "name": "Capture: Add Label",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{% label {{selected}} orange%}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
       "id": "40f76ea4-9f78-491d-a5a8-a3a1f2b93254",
       "name": "📁Template",
       "type": "Multi",
@@ -14,6 +49,41 @@
       "type": "Multi",
       "command": false,
       "choices": [
+        {
+          "id": "9a7fc7e9-7a3f-439b-8cba-d930bcf1abb3",
+          "name": "Capture: Add Admonition",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{% note {{VALUE: default,primary,success,info,warning,danger}} %}\n{{selected}}\n{% endnote %}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
         {
           "id": "5c4321ad-204c-4cea-8687-14b4a564ab99",
           "name": "Capture: Add Yaml",

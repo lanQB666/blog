@@ -9,6 +9,7 @@ categories:
   - course
   - cs61a
 abbrlink: 9569
+cover: https://mit-press-us.imgix.net/covers/9780262510875.jpg?auto=format&w=298&dpr=2&q=20
 ---
 
 
