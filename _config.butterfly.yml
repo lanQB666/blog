@@ -54,14 +54,15 @@ disable_top_img: false
 index_img: 
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: transparent
+default_top_img: /images/background.jpg
+
 
 # The banner image of archive page
-archive_img:
+archive_img: /images/Day2.png
 
 # If the banner of tag page not setting, it will show the top_img
 # note: tag page, not tags page (子標籤頁面的 top_img)
-tag_img:
+tag_img: /images/Night.png
 
 # The banner image of tag page
 # format:
@@ -228,7 +229,7 @@ aside:
     enable: true
     description:
     button:
-      enable: true
+      enable: false
       icon: fab fa-github
       text: Follow Me
       link: https://github.com/xxxxxx

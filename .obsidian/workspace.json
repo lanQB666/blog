@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/_posts/CPP/C-OOP-BASE1.md",
+                "file": "source/_posts/CPP/C-OOP-BASE2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "531b7285c5cff79a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "483afe1376a79e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "source/_posts/CPP/C-OOP-BASE2.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/CPP/C-OOP-BASE1.md",
+                "file": "source/_posts/CPP/C-OOP-BASE2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/_posts/CPP/C-OOP-BASE1.md",
+                "file": "source/_posts/CPP/C-OOP-BASE2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/_posts/CPP/C-OOP-BASE1.md"
+                "file": "source/_posts/CPP/C-OOP-BASE2.md"
               }
             }
           },
@@ -161,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "source/_posts/CPP/C-OOP-BASE1.md",
+                "file": "source/_posts/CPP/C-OOP-BASE2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,26 +279,33 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "14b07fe3759c5a83",
+  "active": "483afe1376a79e9d",
   "lastOpenFiles": [
-    "_config.butterfly.yml~",
-    "node_modules/fsevents",
-    "source/_posts/csapp/csapp.md",
-    "source/_posts/csapp/03.md",
     "db.json",
+    "public/images/background.jpg",
+    "public/images/Night.png",
+    "public/images/Night2.png",
+    "public/images/Day2.png",
+    "public/images/Day.png",
     "public/images/avatar.jpg",
-    "public/archives/2023/index.html",
-    "public/js/search/local-search.js",
+    "public/img/friend_404.gif",
+    "public/img/favicon.png",
     "public/js/search/algolia.js",
-    "public/js/utils.js",
+    "public/js/search/local-search.js",
     "public/js/tw_cn.js",
+    "public/js/utils.js",
     "public/js/search",
     "public/js/main.js",
     "public/js",
-    "public/img/friend_404.gif",
+    "public/css/var.css",
+    "public/css/index.css",
+    "public/css",
     "public/img/404.jpg",
-    "public/img/favicon.png",
     "public/images/logo.svg",
+    "source/_posts/CPP/C-OOP-BASE1.md",
+    "source/_posts/CPP/C-OOP-BASE2.md",
+    "source/_posts/csapp/03.md",
+    "source/_posts/csapp/csapp.md",
     "images/Pasted image 20230411113744.png.md",
     "node_modules/@abreto/markdown-it-katex/node_modules/katex/contrib/mhchem/README.md",
     "node_modules/@abreto/markdown-it-katex/node_modules/katex/contrib/mathtex-script-type/README.md",
@@ -291,8 +316,6 @@
     "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it-emoji/README.md",
     "node_modules/@abreto/markdown-it-katex/node_modules/katex/dist/README.md",
     "node_modules/@abreto/markdown-it-katex/node_modules/katex/CHANGELOG.md",
-    "node_modules/sluggo/logos/logo-box-madefor.png",
-    "node_modules/sluggo/logos/logo-box-builtby.png",
     "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it/README.md",
     "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it/CHANGELOG.md",
     "node_modules/hexo-renderer-markdown-it-katex/node_modules/markdown-it-container/CHANGELOG.md",
@@ -304,11 +327,6 @@
     "node_modules/hexo-renderer-markdown-it-katex/node_modules/entities/readme.md",
     "node_modules/katex/dist/README.md",
     "node_modules/katex/contrib/mhchem/README.md",
-    "node_modules/katex/contrib/mathtex-script-type/README.md",
-    "node_modules/katex/contrib/auto-render/README.md",
-    "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/school-book.png",
-    "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/pojoaque.jpg",
-    "node_modules/hexo-renderer-kramed/node_modules/highlight.js/scss/brown-papersq.png",
     "Language/Cpp/CppPrimer/map/03 处理数据.canvas"
   ]
 }
