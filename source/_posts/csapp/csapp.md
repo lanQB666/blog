@@ -25,4 +25,9 @@ cover: https://s2.loli.net/2023/05/30/xbMFrKkaLw36dt5.png
 ## 总结
 
 - [03 程序机器级表示](58790.html)
-- 
+- [04 处理机体系结构](25669.html)
+
+## Lab
+
+- [02 BombLab](767.html)
+- [03 AttackLab](7686.html)

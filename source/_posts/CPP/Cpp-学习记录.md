@@ -19,3 +19,4 @@ date: 2023-05-30 21:17:24
 ## 笔记
 
 - [C++ OOP BASE1](/43292.html)
+- [C++-OOP-BASE2](C-OOP-BASE2.md)
