@@ -156,13 +156,13 @@ int main(int argc, char *argv[])
 
 **执行代码：**
 
-- `si` / `stepi` 执行下一条==汇编==指令，可以在后面跟数字 k 表示执行后 k 条指令。
+- `si` / `stepi` 执行下一条{% label 汇编 orange%}指令，可以在后面跟数字 k 表示执行后 k 条指令。
 - `ni` / `nexti` 执行下一条汇编指令，但会跳过函数调用
 - `s` / `step` 执行下一条 C 语言指令
 - `n` / `next`  执行下一条 C 语言指令，但会跳过函数调用
 - `until k` 一直执行直到遇到序号为 k 的断点。
 - `c` / `continue` 继续执行直到遇到下一个断点
-- `finish` 执行完当前的==函数体==
+- `finish` 执行完当前的{% label 函数体 orange%}
 
 **检查数据：**
 
@@ -175,7 +175,7 @@ int main(int argc, char *argv[])
 `x/<n/f/u> `
 - `n` 内存单元的个数
 - `f` 格式：x 16 进制。**d 十进制**。T 二进制。C 字符。**s 字符串**。I 指令。
-- `u` 内存单元的大小：b 字节。H 半字。W 字。G
+- `u` 内存单元的大小：b 字节，h 2 字节，4 字节。G
 - 常用：
 	- `x/s 地址` 打印字符串
 	- `x/6dw 地址` 以十进制打印长度为 6 的整型数组
@@ -243,7 +243,7 @@ Dump of assembler code for function phase_1:
 End of assembler dump.
 ```
 
-查看一下寄存器的状态，发现 `rax` `rsi` `rdi` 存放的都是输入==字符串地址==
+查看一下寄存器的状态，发现 `rax` `rsi` `rdi` 存放的都是输入{% label 字符串地址 orange%}
 
 继续执行到 `call`
 - 调用函数 `strings_not_equal` 第一个参数为地址 `$0x402400` ，第二个参数为输入字符串的地址。
